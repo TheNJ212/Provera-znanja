@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
 <Magacin>
   <Artikal>
-    <Naziv sifraArtikla="31">Telefon</Naziv>
+    <Naziv sifraArtikla="s31">Telefon</Naziv>
     <DatumIzrade>
       <Dan>1</Dan>
       <Mesec>1</Mesec>
@@ -17,7 +18,7 @@
     <Email tip="sluzbeni">Mobitek1@office.com</Email>
   </Artikal>
   <Artikal>
-    <Naziv sifraArtikla="121">Maska</Naziv>
+    <Naziv sifraArtikla="s121">Maska</Naziv>
     <DatumIzrade>
       <Dan>22</Dan>
       <Mesec>2</Mesec>
