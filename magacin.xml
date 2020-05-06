@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE Magacin SYSTEM "magacin.dtd">
-<Magacin>
+<Magacin xmlns="http://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com magacin.xsd">
   <Artikal>
     <Naziv sifraArtikla="s31">Telefon</Naziv>
     <DatumIzrade>
@@ -29,6 +31,6 @@
       <ImeKompanije>Mobitek</ImeKompanije>
       <Adresa>Surcin industrijska zona 3</Adresa>
     </KompanijaProdavca>
-    <Email tip="sluzbeni">Mobitek1@office.com</Email>
+    <Email tip="sluzbeni">Mobitek1@office.ea</Email>
   </Artikal>
 </Magacin>
