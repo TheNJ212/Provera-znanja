@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Magacin>
+  <Artikal>
+    <Naziv sifraArtikla="31">Telefon</Naziv>
+    <DatumIzrade>
+      <Dan>1</Dan>
+      <Mesec>1</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena valuta="eur">2</Cena>
+    <KompanijaProdavca>
+      <ImeKompanije>Mobitek</ImeKompanije>
+      <Adresa>Surcin industrijska zona 3</Adresa>
+      <Adresa>Beograd Takovska 5</Adresa>
+    </KompanijaProdavca>
+    <Email tip="privatni">Milan4@mobitek.com</Email>
+    <Email tip="sluzbeni">Mobitek1@office.com</Email>
+  </Artikal>
+  <Artikal>
+    <Naziv sifraArtikla="121">Maska</Naziv>
+    <DatumIzrade>
+      <Dan>22</Dan>
+      <Mesec>2</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena valuta="din">200</Cena>
+    <KompanijaProdavca>
+      <ImeKompanije>Mobitek</ImeKompanije>
+      <Adresa>Surcin industrijska zona 3</Adresa>
+    </KompanijaProdavca>
+    <Email tip="sluzbeni">Mobitek1@office.com</Email>
+  </Artikal>
+</Magacin>
